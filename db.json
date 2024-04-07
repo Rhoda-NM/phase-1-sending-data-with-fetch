@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,363 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "38cc",
+      "name": "Rhoda",
+      "email": "rhoda@rhoda.com"
+    },
+    {
+      "id": "a8fd"
+    },
+    {
+      "id": "bc2b"
+    },
+    {
+      "id": "252d"
+    },
+    {
+      "id": "f0b5"
+    },
+    {
+      "id": "e428"
+    },
+    {
+      "id": "cb65"
+    },
+    {
+      "id": "c1c4"
+    },
+    {
+      "id": "a4cc"
+    },
+    {
+      "id": "c050"
+    },
+    {
+      "id": "bd1c",
+      "name": ""
+    },
+    {
+      "id": "c91a",
+      "name": ""
+    },
+    {
+      "id": "3c66",
+      "name": ""
+    },
+    {
+      "id": "cd52",
+      "name": ""
+    },
+    {
+      "id": "0f83",
+      "name": ""
+    },
+    {
+      "id": "9586",
+      "name": ""
+    },
+    {
+      "id": "eb2d",
+      "name": ""
+    },
+    {
+      "id": "5667",
+      "name": ""
+    },
+    {
+      "id": "4594",
+      "name": ""
+    },
+    {
+      "id": "ccd1",
+      "name": ""
+    },
+    {
+      "id": "f794",
+      "name": "Tessa"
+    },
+    {
+      "id": "3f93",
+      "name": "Tessa"
+    },
+    {
+      "id": "1e5b",
+      "name": "Tessa"
+    },
+    {
+      "id": "1d73",
+      "name": "Tessa"
+    },
+    {
+      "id": "8d55",
+      "name": "Tessa"
+    },
+    {
+      "id": "6004",
+      "name": "Tessa"
+    },
+    {
+      "id": "bc5d",
+      "name": "Tessa"
+    },
+    {
+      "id": "e67c",
+      "name": "Tessa"
+    },
+    {
+      "id": "87a8",
+      "name": "Tessa"
+    },
+    {
+      "id": "ec15",
+      "name": "Tessa"
+    },
+    {
+      "id": "65e4",
+      "name": "Tessa"
+    },
+    {
+      "id": "020a",
+      "name": "Tessa"
+    },
+    {
+      "id": "8a65",
+      "name": "Tessa",
+      "email": ""
+    },
+    {
+      "id": "633d",
+      "name": "Tessa",
+      "email": ""
+    },
+    {
+      "id": "bcca",
+      "name": "Tessa",
+      "email": ""
+    },
+    {
+      "id": "2db0",
+      "name": "Tessa",
+      "email": ""
+    },
+    {
+      "id": "2478",
+      "name": "Tessa",
+      "email": "tessa"
+    },
+    {
+      "id": "968a",
+      "name": "Tessa",
+      "email": "tessa"
+    },
+    {
+      "id": "537e",
+      "name": "Tessa",
+      "email": "tessa"
+    },
+    {
+      "id": "2d68",
+      "name": "Tessa",
+      "email": "tessa"
+    },
+    {
+      "id": "5440",
+      "name": "Tessa",
+      "email": "tessa"
+    },
+    {
+      "id": "3960",
+      "name": "Tessa",
+      "email": "tessa@"
+    },
+    {
+      "id": "9d4e",
+      "name": "Tessa",
+      "email": "tessa@"
+    },
+    {
+      "id": "7e7f",
+      "name": "Tessa",
+      "email": "tessa@"
+    },
+    {
+      "id": "7829",
+      "name": "Tessa",
+      "email": "tessa@"
+    },
+    {
+      "id": "4d47",
+      "name": "Tessa",
+      "email": "tessa@"
+    },
+    {
+      "id": "8707",
+      "name": "Tessa",
+      "email": "tessa@"
+    },
+    {
+      "id": "54e8",
+      "name": "Tessa",
+      "email": "tessa@tessa"
+    },
+    {
+      "id": "5848",
+      "name": "Tessa",
+      "email": "tessa@tessa"
+    },
+    {
+      "id": "f06e",
+      "name": "Tessa",
+      "email": "tessa@tessa"
+    },
+    {
+      "id": "bf12",
+      "name": "Tessa",
+      "email": "tessa@tessa"
+    },
+    {
+      "id": "7997",
+      "name": "Tessa",
+      "email": "tessa@tessa"
+    },
+    {
+      "id": "0a0e",
+      "name": "Tessa",
+      "email": "tessa@tessa"
+    },
+    {
+      "id": "77eb",
+      "name": "Tessa",
+      "email": "tessa@tessa"
+    },
+    {
+      "id": "d90a",
+      "name": "Tessa",
+      "email": "tessa@tessa"
+    },
+    {
+      "id": "406e",
+      "name": "Tessa",
+      "email": "tessa@tessa"
+    },
+    {
+      "id": "7a9b",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "35d8",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "9a19",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "21bf",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "3d6f",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "5525",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "e4f4",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "cfc6",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "1ef6",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "16db",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "9a76",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "3379",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "a312",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "d476",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "9386",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "5629",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "dc1e",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "fe88",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "d234",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "bde5",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "780a",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    },
+    {
+      "id": "5a1e",
+      "name": "Tessa",
+      "email": "tessa@tessa.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
