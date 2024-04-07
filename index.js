@@ -37,7 +37,7 @@ function submitData(name, email){
     }
     //console.log(newUser);
     return fetch("http://localhost:3000/users", configObject)
-        .then((res) => res.json)
+        .then((res) => res.json())
         .then((data) => {
             document.body.innerHTML += data.id;
             console.log(data);
